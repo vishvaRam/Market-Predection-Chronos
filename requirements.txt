@@ -1,0 +1,12 @@
+uv
+rich
+ipykernel
+ipywidgets
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+autogluon.timeseries
+numpy 
+scikit-learn
