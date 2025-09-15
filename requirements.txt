@@ -10,3 +10,6 @@ nbformat
 autogluon.timeseries
 numpy 
 scikit-learn
+chronos-forecasting
+ta
+yfinance
